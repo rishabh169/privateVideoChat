@@ -22,7 +22,7 @@ var sdpConstraints = {
 
 /////////////////////////////////////////////
 
-var room = 'foo';
+window.room = prompt("Enter room name:");
 // Could prompt for room name:
 // room = prompt('Enter room name:');
 
